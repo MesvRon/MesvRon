@@ -18,11 +18,16 @@
 
 ---
 
-- 🔭 I’m currently working on [Car_Safety_Analysis](https://github.com/QuantumCoderrr/Car_Safety_Analysis)  
-- 🌱 I’m currently learning **Full Stack Web Development with the PERN Stack**  
-- 💬 Ask me about **Web Development, Python & Machine Learning**  
-- 📫 How to reach me: **rahaabhirup72@gmail.com**  
-- ⚡ Fun fact: **I am a Lazy Learner**  
+## 🚀 About Me
+
+🎓 I’m a third-year B.Tech. student specializing in **Artificial Intelligence and Machine Learning** at **St. Thomas' College of Engineering & Technology**.  
+🔍 A passionate **Machine Learning Enthusiast**, actively building intelligent, data-driven solutions and continuously learning cutting-edge tools and techniques.  
+🔭 I’m currently working on **[Raahi](https://github.com/QuantumCoderrr/Raahi)** – a smart career advancement platform for higher education faculty.  
+🌱 I’m currently learning **Full Stack Web Development with the PERN Stack (PostgreSQL, Express.js, React, Node.js)** to become a complete developer.  
+💡 I enjoy building meaningful projects that combine my interests in **web development, Python, and machine learning**.  
+📫 You can reach me at: **rahaabhirup72@gmail.com**  
+⚡ Fun fact: **I proudly call myself a "Lazy Learner" — I strive to find the smartest way to solve problems, not the hardest.**
+
 
 ---
 
